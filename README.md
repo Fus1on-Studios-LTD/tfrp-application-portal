@@ -231,3 +231,8 @@ Built-in maintenance system with:
 - PM2
 - NGINX
 - Ubuntu 24.04
+
+---
+
+#### Built with ❤️ by The Flow RP Development Team
+#### Built with ❤️ by @theTox1cFus1on
