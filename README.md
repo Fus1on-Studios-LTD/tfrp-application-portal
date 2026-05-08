@@ -6,7 +6,7 @@
 
 # Production-Ready Community Management Platform
 
-Modern Discord-integrated recruitment, onboarding, staff management, interview tracking, analytics, and department operations platform built for FiveM roleplay communities.
+Modern Discord-integrated recruitment, onboarding, staff management, interview tracking, analytics, and department operations platform built for The Flow RP Community.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Production-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
